@@ -24,7 +24,7 @@ int main(){
                 a++;
             }else if(str[j]>='A' && str[j]<='Z'){
                 b++;
-            }else if(str[j]>='0' && str[j]=='9'){
+            }else if(str[j]>='0' && str[j]<='9'){
                 c++;
             }else if(str[j]==' '){
                 d++;
