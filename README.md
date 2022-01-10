@@ -2,7 +2,7 @@
 ## 알고리즘문제를 풀어보며 내용을 정리하기 위한 공간
 
 자세한 내용들의 개념은 Notion에 함께 정리하는 중입니다.<br><br>
-  <a href="https://www.notion.so/nosic/0417b3327beb450080e19cf73bcc0762">
+  <a href="https://www.notion.so/nosic/CODING-9c5b3a21e26f4cf49b7b4d77d8f03fbe">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
 
