@@ -18,3 +18,4 @@
 5. Brute Force
 6. Graph 
 - Tree
+7. Back Tracking
